@@ -1,0 +1,13 @@
+bcrypt==4.0.1
+email-validator==2.3.0
+fastapi==0.153.0
+joblib==1.6.0
+numpy==2.5.4
+pandas==3.0.6
+passlib==1.7.4
+pydantic==2.14.1
+python-jose==3.5.0
+python-multipart==0.0.32
+scikit-learn==1.9.1
+SQLAlchemy==2.1.5
+uvicorn==0.54.0

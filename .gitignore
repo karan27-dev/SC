@@ -1,0 +1,9 @@
+backend/.venv/
+backend/spp.db
+backend/__pycache__/
+**/__pycache__/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+backend/artifacts/
+*.log
